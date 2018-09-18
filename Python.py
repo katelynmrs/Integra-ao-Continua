@@ -1,3 +1,2 @@
 def soma (a, b):
-    return a + b
-print(soma(5, 7))
+    return (a + b)
