@@ -1,10 +1,11 @@
 language: python
 python:
-  - "3.6.2"
+ - "3.6.2"
 
 scrit:
-  - py.teste teste.py
+ - py.teste teste.py
+
 after script:
 notifications:
 recipients:
-katelyn.profissional@gmail.com
+ katelyn.profissional@gmail.com
